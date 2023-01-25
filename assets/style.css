@@ -29,12 +29,12 @@ body {
 
 .box div:nth-child(3) {
     left: 9%;
-    top: 111%;
+    top: 50%;
 }
 
 .box div:nth-child(4) {
     left: 7%;
-    top: 50%;
+    top: 100%;
 }
 
 .box div:nth-child(5) {
@@ -53,8 +53,8 @@ body {
 }
 
 .box div:nth-child(8) {
-    top: 144%;
-    left: 2%;
+    top: 90%;
+    left: 50%;
 }
 
 .box div:nth-child(9) {
@@ -72,50 +72,6 @@ body {
     left: 60%;
 }
 
-.box div:nth-child(12) {
-    top: 60%;
-    left: 40%;
-}
-
-.box div:nth-child(13) {
-    top: 36%;
-    left: 81%;
-}
-
-.box div:nth-child(14) {
-    top: 35%;
-    left: 30%;
-}
-
-.box div:nth-child(15) {
-    top: 10%;
-    left: 60%;
-}
-
-.box div:nth-child(16) {
-    top: 123%;
-    left: 40%;
-}
-
-.box div:nth-child(17) {
-    top: 149%;
-    left: 80%;
-}
-
-.box div:nth-child(18) {
-    top: 20%;
-    left: 80%;
-}
-
-.box div:nth-child(19) {
-    top: 10%;
-    left: 40%;
-}
-
-.box div:nth-child(20) {
-    top: 103%;
-    left: 80%;
-}
 
 @keyframes float {
     0% {
